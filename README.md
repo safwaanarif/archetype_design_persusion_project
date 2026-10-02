@@ -47,7 +47,7 @@ The project lead adds each member’s name, archetype, and page link below.
 | Name | Role | Archetype | Profile Link |
 | :--- | :--- | :--- | :--- |
 | **Safwaan Arif** | Project Lead | Pending | [Profile](members/safwaan_arif.md) |
-| [Teammate 1 Name] | Contributor | Pending | Pending PR |
+| **Vincent Steiner** | Contributor | Creator | [Profile](members/vincent_steiner.md) |
 | [Teammate 2 Name] | Contributor | Pending | Pending PR |
 | [Teammate 3 Name] | Contributor | Pending | Pending PR |
 
