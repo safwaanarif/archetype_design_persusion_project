@@ -11,9 +11,9 @@ Form a group of **four**. Choose a **project lead** and assign one topic to each
 
 | Topic | Required Pages | Owner | Folder |
 |---|---:|---|
-| [Brand Archetypes](archetypes/README.md) | 12 archetypes | Jose | `archetypes/` |
-| [Principles of Persuasion](persuasion/README.md) | 7 principles | Vincent | `persuasion/` |
-| [Modernist Design](modernism/README.md) | 6 styles | Safwaan | `modernism/` |
+| [Brand Archetypes](archetypes/READ.ME.md) | 12 archetypes | Jose | `archetypes/` |
+| [Principles of Persuasion](persuasion/READ.ME.md) | 7 principles | Vincent | `persuasion/` |
+| [Modernist Design](modernism/READ.ME.md) | 6 styles | Safwaan | `modernism/` |
 | [Postmodernist Design](postmodernism/README.md) | 6 styles | Konrad | `postmodernism/` |
 
 **The project lead:**
@@ -40,7 +40,13 @@ The project lead adds each member’s name, archetype, and page link below.
 
 ### Team Members
 
-<!-- Example: - [Keith Williams](members/keith_williams.md) — Explorer -->
+## Team Members
+| Name | Role | Archetype | Profile Link | Topic Owned |
+| :--- | :--- | :--- | :--- | :--- |
+| **Safwaan Arif** | Project Lead | The Sage | [Profile](members/safwaan_arif.md) | Modernist Design |
+| **Jose Santos** | Contributor | [Hero] | [Profile](members/jose_santos.md) | Brand Archetypes |
+| **Konrad Sikorski** | Contributor | [The Hero] | [Profile](members/konrad_sikorski.md) | Postmodernist Design |
+| **VJS6-NJIT** | Contributor | [The Creator] | [Profile](members/vincent_stiener.md) | Principles of Persuasion |
 
 ## 3. Assignment Two: Create a Sample Page
 
